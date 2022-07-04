@@ -24,6 +24,7 @@ body {
 }
 
 .image {
+    z-index: 3;
     height: 100px;
     width: 100px;
     background-image: url(./img/NGOTRUNGNGHIA.jpg) ;
@@ -38,6 +39,7 @@ body {
 }
 
 .shape {
+    z-index: 1;
     height: 250px;
     width: 400px;
     background-image: url(./img/QR\ \(1\).jpg);
